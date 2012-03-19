@@ -1,0 +1,4 @@
+jWordSolver
+
+Given a list of letters and a dictionary, jWordSolver will list all the
+possible combinations that can be made with those letters.
